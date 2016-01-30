@@ -1,0 +1,4 @@
+== README
+
+= Rails 4.1  ({Authentication with Devise}[http://bogotobogo.com/RubyOnRails/RubyOnRails_Devise_Authentication_Sending_Confirmation_Email.php])
+
