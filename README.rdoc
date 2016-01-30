@@ -1,4 +1,6 @@
 == README
 
-= Rails 4.1  ({Authentication with Devise}[http://bogotobogo.com/RubyOnRails/RubyOnRails_Devise_Authentication_Sending_Confirmation_Email.php])
+= Rails 4.1 Devise customization II
+
+Tutorial ({Devise customization II}[http://bogotobogo.com/RubyOnRails/RubyOnRails_Devise_Customization_2.php])
 
